@@ -1,1 +1,1 @@
-# learning-java-example
+# Learning Java by Example
