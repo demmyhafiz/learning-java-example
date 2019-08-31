@@ -1,5 +1,8 @@
 package com.damnme.test.basic;
 
+
+import java.util.Date;
+
 import com.damnme.test.basic.animal.Cat;
 /*
 import com.damnme.test.basic.vehicle.Car;
@@ -17,6 +20,9 @@ public class Main {
         Car.totalTire();
         Motorcycle.totalTire();
         Train.totalTire();
+
+        Date today = new Date();
+        System.out.println("Today is " + today);
 
         System.exit(0);
     }
